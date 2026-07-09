@@ -1,0 +1,8 @@
+go.work
+*.exe
+c-engine/build/
+*.tar
+.idea/
+.vscode/
+.DS_Store
+__pycache__/
